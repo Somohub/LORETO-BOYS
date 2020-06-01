@@ -8485,11 +8485,26 @@ section.lazy-placeholder:after {
 .cid-rVvcHYkoHn .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s0lzBY8lKp {
-  background-color: #efefef;
+.cid-s0DdxdTezV {
+  padding-top: 105px;
+  padding-bottom: 90px;
+  background-color: #0f7699;
 }
-.cid-s0lzBY8lKp P {
-  color: #767676;
+.cid-s0DdxdTezV .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s0DdxdTezV .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-s0DdxdTezV .mbr-figure img {
+    width: 100% !important;
+  }
 }
 .cid-rVvcHYkoHn .navbar {
   padding: .5rem 0;
